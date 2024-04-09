@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Приложение по определению чётного или нечётного числа", "Приложение по определению чётного или нечётного числа.csproj", "{DFC05F04-65A9-4FCC-A652-FEFFD850C110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC05F04-65A9-4FCC-A652-FEFFD850C110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC05F04-65A9-4FCC-A652-FEFFD850C110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC05F04-65A9-4FCC-A652-FEFFD850C110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC05F04-65A9-4FCC-A652-FEFFD850C110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39BC8B51-C086-4A0C-AEFE-4B14EFE21ED5}
+	EndGlobalSection
+EndGlobal
